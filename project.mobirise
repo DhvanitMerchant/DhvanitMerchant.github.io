@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 11,
+    "uniqCompNum": 14,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -113,25 +113,98 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "21px"
+            }
+          },
           "_params": {
-            "showMeta": true
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-720x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
           },
           "title": "ABOUT",
-          "meta": "<br><br><br>My name is Dhvanit, aged 17, 18 this year. Born in the great country of India, I enjoy music a lot but I tend to be band oriented thus becoming a self-proclaimed band geek. I am very smart working guy and hard working too.I like to work for the company which can understand my talents and especially tells me my hidden talents so that I can do my best for raising your compant in high level. I'm a good listener. I like to help other people, though sometimes it kind of overtakes my own problems. I'll admit right now that I work on other people's problems to get away from my own. I've been told I'm good with advice,I just never seem to be able to help myself. My MAIN AIM is to help my customers and treat everyone as a nice person.<br>",
+          "text": "My name is Dhvanit, aged 17, 18 this year. Born in the great country of India, I enjoy music a lot but I tend to be band oriented thus becoming a self-proclaimed band geek. I am very smart working guy and hard working too.I like to<b> work for the company which can understand my talents and especially tells me my hidden</b> talents so that I can do my best for raising your compant in high level. I'm a good listener. I like to help other people, though sometimes it kind of overtakes my own problems. I'll admit right now that I work on other people's problems to get away from my own. I've been told I'm good with advice,I just never seem to be able to help myself. My MAIN AIM is to help my customers and treat everyone as a nice person.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "17px"
-            }
-          }
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-d"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#000000",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171021-151456-987-2000x3710.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20171021-151456-987-2000x3710-800x1484.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/heritage-1080x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/heritage-1080x1920-800x1422.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mirror-884x884.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mirror-884x884-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/black-1080x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/black-1080x1920-800x1422.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/background-1600x822.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background-1600x822-800x411.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-b"
         },
         {
           "_params": {
