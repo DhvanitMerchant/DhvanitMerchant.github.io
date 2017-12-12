@@ -130,10 +130,10 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "4",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1919x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
+            "parallax": false,
+            "bgColorRadio": true,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
