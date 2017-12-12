@@ -37,7 +37,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "showButtons": false,
             "sticky": true,
