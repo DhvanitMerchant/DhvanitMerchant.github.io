@@ -251,7 +251,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>81 Maplehurst Crescent <br>Barrie, ON<br>L4M4X1\n<br>&nbsp;<br><br>\n<strong>CONTACTS</strong><br>\nEmail: sdhvanit24merchant@gmail.com<br>\nPhone: +1 (249) 359 1044<br><br>",
+          "text1": "<strong>ADDRESS</strong><br>81 Maplehurst Crescent <br>Barrie, ON<br>L4M4X1\n<br>&nbsp;<br><br>\n<strong>CONTACTS</strong><br>\nEmail: dhvanit24merchant@gmail.com<br>\nPhone: +1 (249) 359 1044<br><br>",
           "text2": "",
           "_tags": [
             "Theme"
@@ -263,7 +263,7 @@
               "color": "#ffffff",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "18px"
+              "font-size": "15px"
             },
             "STRONG": {
               "font-size": "23px"
