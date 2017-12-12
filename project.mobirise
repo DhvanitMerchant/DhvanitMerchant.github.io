@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 14,
+    "uniqCompNum": 16,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -229,6 +229,44 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "81 Maplehurst Crescent L4M4X1\n",
+              "placeId": "ChIJvRTDUOOiKogR1KUq0rTjaAU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>81 Maplehurst Crescent <br>Barrie, ON<br>L4M4X1\n<br>&nbsp;<br><br>\n<strong>CONTACTS</strong><br>\nEmail: sdhvanit24merchant@gmail.com<br>\nPhone: +1 (249) 359 1044<br><br>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-f",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "23px"
             }
           }
         },
